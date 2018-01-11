@@ -1,6 +1,6 @@
 {
     "name": "zubair/laravel-fetchr",
-    "description": "An package for consuming Fetchr Dropship API v3.0 in Laravel",
+    "description": "A package for consuming Fetchr Dropship API v3.0 in Laravel",
     "authors": [
         {
             "name": "Zubair Mohsin",

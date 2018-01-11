@@ -20,7 +20,7 @@ class Fetchr
 
     public function __call($method , $args)
     {
-        dd($this->makeRequest($args[0]));
+        return $this->makeRequest($args[0]);
     }
 
     private function endpoint()
