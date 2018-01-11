@@ -1,0 +1,20 @@
+{
+    "name": "zubair/laravel-fetchr",
+    "description": "An package for consuming Fetchr Dropship API v3.0 in Laravel",
+    "authors": [
+        {
+            "name": "Zubair Mohsin",
+            "email": "awebartisan@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "Zubair\\" : "src"
+        }
+    },
+    "require": {
+        "php" : ">=7.0.0",
+        "guzzlehttp/guzzle": "~6.2",
+        "illuminate/support": "^5.5"
+    }
+}
